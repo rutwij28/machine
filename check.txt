@@ -7,3 +7,9 @@ git status
 git remote add origin "link of github"
 git commit -m "any text"
 git push -u origin master
+
+if again want to add then 
+git add .
+git status
+git commit -m ",,,"
+git push -u origin master
